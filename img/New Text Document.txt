@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 bopklgkrs pfodkg owrjsogijosijgidf jso;ij hioj gioj  ecalkr huiefuih q3uinjntrgijsr
+=======
+<<<<<<< HEAD
+kuy ohm
+=======
+bopklgkrs pfodkg owrjsogijosijgidf jso;ij hioj gioj 
+>>>>>>> 5b2b73e28e1342983a025a447e7d5f639b37ad40
+>>>>>>> e1dc4745964cb2e286c6f542555aa7600fda8255
